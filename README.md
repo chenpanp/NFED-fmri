@@ -50,3 +50,6 @@ The whole-brain data mapped to the cerebral cortex as obtained from the technica
 
 ## Mannually prepared environment
 We provide the *requirements.txt* to install python packages used in these codes. However, some packages like *GLM* and *pre-processing* require external dependecies and we have provided the packages in the corresponding file.
+
+## stimuli
+The video stimuli used in the NFED experiment are saved in the "stimuli_1" and "stimuli_2" folders.
