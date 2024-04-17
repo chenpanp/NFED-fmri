@@ -1,5 +1,5 @@
 # A large-scale fMRI dataset in response to short naturalistic facial expressions videos
-Naturalistic facial expressions dataset (NFED),a large-scale dataset of whole-brain functional magnetic resonance imaging (fMRI) responses to 1,320 short (3s) facial expression video clips.NFED provides researchers with fMRI data that can be used not only to explore the neural mechanisms underlying the processing of emotional information conveyed by naturalistic dynamic facial expression stimuli,but also to more effectively characterize the relationship between perceived stimuli and brain responses through neural encoding and neural decoding.
+Naturalistic facial expressions dataset (NFED),a large-scale dataset of whole-brain functional magnetic resonance imaging (fMRI) responses to 1,320 short (3s) facial expression video clips.NFED offers researchers fMRI data that enables them to investigate the neural mechanisms involved in processing emotional information communicated by facial expression videos in real-world environments.
 The dataset contains raw data, pre-processed volume data,pre-processed  surface data and suface-based analyzed data.
 To get more details, please refer to the paper at {website} and the dataset at https://openneuro.org/datasets/ds005047
 
