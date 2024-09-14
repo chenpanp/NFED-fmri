@@ -11,7 +11,7 @@ The MRI data were preprocessed by using Kay et al, combining code written in MAT
 Detailed usage notes are available in codes, please read carefully and modify variables to satisfy your customed environment.
 ## GLM of main experiment
 We performed a single-trial GLM(GLMsingle),a advanced denoising toolbox in MATLAB used to improve single-trial BOLD response estimates, to model the time-series data in surface forma from the pre-processed fMRI data of each participant. Three specific amplitudes of responses (i.e., beta values) were estimated by modeling the BOLD response in relation to each video onset from 1 to 3 seconds in 1 second steps.Using GLMsingle in the manner described above, the BOLD responses evoked by each video were assessed in the run of each session. In total, we extracted 2(repetitions) x 3 (seconds) beta estimates for each video condition in the training set,and 10 (repetitions) x 3(seconds) estimated beta values for each video condition in the testing set.
-**code: ./GLMsingle-main-experiment/matlab/examples.m**
+**code: ./GLMsingle-main-experiment/matlab/main.m**
 
 #### retinotopic mapping
 
